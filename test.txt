@@ -1,2 +1,2 @@
 test
-¼öÁ¤222
+revert pr¿¡ push
