@@ -8,7 +8,7 @@ public class TestController {
 
     @GetMapping("/test")
     public String test(){
-        // 변경점 용 주석
+        // 변경점 용 주석2
         return "테스트용 메시지입니다.";
     }
 }
