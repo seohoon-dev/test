@@ -8,3 +8,5 @@ PR 코멘트에서 레퍼런스 이슈
 깃허브 웹 훅 페이로드 파싱
 
 generic-webhook-trigger
+
+parsing
