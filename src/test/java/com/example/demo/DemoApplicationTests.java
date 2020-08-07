@@ -10,7 +10,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-//		fail("실패했습니다.");
+		fail("실패했습니다.");
 	}
 
 }
